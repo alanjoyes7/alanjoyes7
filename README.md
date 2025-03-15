@@ -77,11 +77,6 @@
 
 ---
 
-## 🎉 Fun Animation  
-![Snake animation](https://github.com/alanjoyes7/alanjoyes7/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-joyes-2713aa338)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alanjoyes7)  
